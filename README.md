@@ -21,7 +21,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejas6767&theme=tokyonight" alt="thejas6767" /></p>
 
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="250" alt="java" />
-<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="250" alt="java coding" />
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250" alt="gears" />
 
+
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="programmer" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="working" />
+
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" alt="rocket" />
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" alt="laptop" />
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="200" alt="github" />
