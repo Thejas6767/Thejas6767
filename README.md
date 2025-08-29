@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/z4uXeZz.gif" alt="Code typing effect" width="400" />
+<img src="C:\Users\theja\OneDrive\Pictures\Saved Pictures\motiv.jpg" alt="Code typing effect" width="400" />
 
 <h1 align="center">Hi 👋, I'm Thejas M R</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
