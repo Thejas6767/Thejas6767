@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thejas M R</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" />
 - 🌱 I’m currently learning **Spring Boot,Hibernate,MySQL,React**
 
 - 💬 Ask me about **Java,Spring Boot, REST API Development,React**
@@ -17,7 +17,7 @@
 
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejas6767&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thejas6767" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejas6767&show_icons=true&locale=en&theme=tokyonight" alt="thejas6767" /></p>
