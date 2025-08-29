@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Thejas6767/Thejas6767/blob/main/Screenshot%202025-08-29%20113924.png?raw=true&theme=tokyonight)
+
 
 <h1 align="center">Hi 👋, I'm Thejas M R</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
