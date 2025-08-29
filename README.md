@@ -26,7 +26,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" />
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="programmer" />
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="working" />
+
 
 
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" alt="rocket" />
