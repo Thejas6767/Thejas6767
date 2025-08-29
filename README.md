@@ -1,4 +1,4 @@
-<img src="C:\Users\theja\OneDrive\Pictures\Saved Pictures\motiv.jpg"  width="400" />
+![MasterHead](C:\Users\theja\OneDrive\Pictures\Saved Pictures\motiv.jpg?raw=true)
 
 <h1 align="center">Hi 👋, I'm Thejas M R</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
