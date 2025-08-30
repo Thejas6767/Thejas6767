@@ -1,5 +1,3 @@
-![MasterHead](https://tse2.mm.bing.net/th/id/OIP.LJy9cOnfC13M5-Cd-NryNQHaJ4?rs=1&pid=ImgDetMain&o=7&rm=3?raw=true)
-
 <h1 align="center">Hi 👋, I'm Thejas M R</h1>
 <h3 align="center">A passionate Full Stack Java developer from India</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding?raw=true"/>
