@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Thejas M R</h1>
-<h2 align="center">My daily motive - </h2>
+
 
 
 
