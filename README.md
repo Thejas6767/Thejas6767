@@ -6,11 +6,11 @@
 
 
 
-<h3 align="center">A passionate Full Stack Java developer from India</h3>
+<h3 align="center">A passionate Full Stack Java developer</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding?raw=true"/>
-- 🌱 I’m currently learning **Spring Boot,Hibernate,MySQL,React**
+- 🌱 I’m currently learning **Java Script,Java**
 
-- 💬 Ask me about **Java,Spring Boot, REST API Development,React**
+- 💬 Ask me about **Java,Java Script,CSS,HTML,SQL**
 
 - 📫 How to reach me **thejas6767@gmail.com**
 
