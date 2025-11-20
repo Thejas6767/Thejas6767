@@ -10,7 +10,7 @@
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding?raw=true"/>
 - 🌱 I’m currently learning **Java Script,Java**
 
-- 💬 Ask me about **Java,Java Script,CSS,HTML,SQL**
+- 💬 Ask me about **Java,Python,Java Script,CSS,HTML,SQL**
 
 - 📫 How to reach me **thejas6767@gmail.com**
 
