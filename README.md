@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">A passionate Full Stack Java developer</h3>
+<h3 align="center">A passionate Full Stack Java developr</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding?raw=true"/>
 - 🌱 I’m currently learning **Spring,JDBC ,Servlet**
 
