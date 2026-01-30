@@ -5,10 +5,9 @@
     <title>GitHub Profile | Your Name</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-    <style>
+<style>
         * {
             margin: 0;
             padding: 0;
@@ -113,19 +112,17 @@
 <body>
 
 <div class="container">
-
-    <!-- Profile Section -->
+ <!-- Profile Section -->
     <div class="profile">
         <img src="https://avatars.githubusercontent.com/u/0000000?v=4" alt="Profile Image">
         <h1>Your Name</h1>
         <p>Java Full Stack Developer | Problem Solver | Tech Enthusiast 🚀</p>
 
-        <div class="badges">
+<div class="badges">
             <img src="https://komarev.com/ghpvc/?username=yourusername&color=00e6e6">
             <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social">
         </div>
     </div>
-
     <!-- About Me -->
     <section>
         <h2>👨‍💻 About Me</h2>
@@ -137,7 +134,7 @@
     </section>
 
     <!-- Skills -->
-    <section>
+ <section>
         <h2>🛠 Skills</h2>
         <div class="skills">
             <span>Java</span>
@@ -152,7 +149,7 @@
     </section>
 
     <!-- Projects -->
-    <section>
+ <section>
         <h2>📂 Featured Projects</h2>
         <ul>
             <li>🚀 <b>Employee Management System</b> – Java, Spring Boot, MySQL</li>
@@ -162,14 +159,14 @@
     </section>
 
     <!-- GitHub Stats -->
-    <section class="stats">
+<section class="stats">
         <h2>📊 GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight">
     </section>
 
     <!-- Contact -->
-    <section>
+<section>
         <h2>📫 Connect With Me</h2>
         <p>
             🔗 GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a><br>
@@ -178,7 +175,7 @@
         </p>
     </section>
 
-    <footer>
+<footer>
         ⭐ If you like my work, consider starring my repositories!
     </footer>
 
